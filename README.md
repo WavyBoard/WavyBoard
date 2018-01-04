@@ -7,6 +7,6 @@
 Codes related to CS 435 Systems mbed project. 
 
 
-[a link](http://public.csusm.edu/mettavy/wavyBoard.html "Webpage")
+[WavyBoard Webage](http://public.csusm.edu/mettavy/wavyBoard.html "Webpage")
 
 
